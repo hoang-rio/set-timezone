@@ -1,9 +1,9 @@
-name: "Set Timezone"
+name: "Set Action Timezone"
 description: "Sets timezone in your locale"
 author: "szenius"
 branding:
   icon: "clock"
-  color: "yellow"
+  color: "green"
 inputs:
   timezoneLinux:
     description: "Desired timezone for Linux"
